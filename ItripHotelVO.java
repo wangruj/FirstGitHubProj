@@ -59,6 +59,8 @@ public class ItripHotelVO implements Serializable {
     private String imgUrl;
 
 
+    //aaaaaaa
+
     public Double getMaxPrice() {
         return maxPrice;
     }
